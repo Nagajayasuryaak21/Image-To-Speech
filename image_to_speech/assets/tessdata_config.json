@@ -1,0 +1,12 @@
+{
+  "files": [
+    "eng.traineddata",
+    "OCRB.traineddata",
+    "pdf.ttf",
+    "financial.traineddata",
+    "kor.traineddata",
+    "kor_vert.traineddata",
+    "tam.traineddata",
+    "Tamil.traineddata"
+  ]
+}

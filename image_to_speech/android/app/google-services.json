@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369819207012",
+    "project_id": "mlflutterp1",
+    "storage_bucket": "mlflutterp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369819207012:android:5ef491c3b11f07cbc9e671",
+        "android_client_info": {
+          "package_name": "com.surya.image_to_speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369819207012-l29v6nbpt2foqr1anno6eo0q0ro9706n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbaO7HeYW6RaLziwEhp6iZiSWfRzN7xxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369819207012-l29v6nbpt2foqr1anno6eo0q0ro9706n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
